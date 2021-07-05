@@ -19,7 +19,7 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency "faker"
   spec.add_dependency "pastel", "~> 0.7"
-  spec.add_dependency "thor", ">= 0.20", "< 1.1"
+  spec.add_dependency "thor", ">= 0.20", "< 1.2"
   spec.add_dependency "tty-pager", "~> 0.13"
   spec.add_dependency "tty-screen", "~> 0.8"
   spec.add_dependency "tty-tree", "~> 0.4"
